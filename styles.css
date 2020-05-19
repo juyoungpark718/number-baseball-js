@@ -1,0 +1,24 @@
+#playerContainer {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5rem;
+}
+#userNumber {
+}
+#selectBtn {
+}
+#startBtn {
+}
+
+.player {
+  border: 1px solid black;
+  width: 300px;
+  min-height: 500px;
+}
+.controler {
+}
+
+.check-container {
+  display: flex;
+  justify-content: space-around;
+}
